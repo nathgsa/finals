@@ -1,0 +1,35 @@
+body{
+    border-collapse: collapse;
+}
+.navbar{
+    border: 4px solid greenyellow;
+}
+.header{
+    border: 4px solid greenyellow;
+    opacity: .9;
+}
+
+.image1{
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: .3;
+    border: 4px solid greenyellow;
+}
+.image1{
+    border: 4px solid greenyellow;
+}
+.rounded-circle{
+    width: 304;
+    height: 236;
+    border: 4px solid greenyellow;
+}
+.card{
+    border: 4px solid greenyellow;
+}
+.text_decor{
+    text-decoration: overline;
+}
+.underline{
+    text-decoration: underline;
+}
