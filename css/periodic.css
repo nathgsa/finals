@@ -4,3 +4,64 @@
 .noborder{
     border: none;
 }
+.container{
+    opacity: 3px;
+}
+p{
+    text-align: center;
+}
+td{
+    border: 2px solid;
+    border-radius: 3mm;
+}
+.red{
+    border-radius: 3mm;
+    border: 2px solid rgb(255, 0, 0);
+    color: rgb(255, 0, 0);
+
+}
+.orange{
+    border-radius: 3mm;
+    border: 2px solid rgb(255, 153, 0);
+    color: rgb(255, 153, 0);
+}
+.yellow{
+    border-radius: 3mm;
+    border: 2px solid rgb(255, 255, 0);
+    color: rgb(255, 255, 0);
+}
+.green{
+    border-radius: 3mm;
+    border: 2px solid rgb(0, 255, 0);
+    color: rgb(0, 255, 0);
+}
+.skyblue{
+    border-radius: 3mm;
+    border: 2px solid rgb(0, 255, 255);
+    color: rgb(0, 255, 255);
+}
+.blue{
+    border-radius: 3mm;
+    border: 2px solid rgb(0, 0, 255);
+    color: rgb(0, 0, 255);
+}
+.bluegreen{
+    border-radius: 3mm;
+    border: 2px solid rgb(0, 255, 204);
+    color: rgb(0, 255, 204);
+}
+.violet{
+    border-radius: 3mm;
+    border: 2px solid rgb(102, 0, 204);
+    color: rgb(102, 0, 204);
+}
+.peach{
+    border-radius: 3mm;
+    border: 2px solid rgb(255, 204, 153);
+    color: rgb(255, 204, 153);
+}
+.pink{
+    border-radius: 3mm;
+    border: 2px solid rgb(255, 0, 255);
+    color: rgb(255, 0, 255);
+}
