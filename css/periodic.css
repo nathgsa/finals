@@ -9,10 +9,14 @@
 }
 p{
     text-align: center;
+    font-size: 30px;
 }
 td{
     border: 2px solid;
     border-radius: 3mm;
+}
+b{
+    font-size: 30px;
 }
 .red{
     border-radius: 3mm;
